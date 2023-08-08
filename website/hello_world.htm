@@ -1,0 +1,217 @@
+<html>
+<head>
+<title>My first page</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+<style>
+#my_image{
+
+position:absolute;//расположение картинки отсчитывается от верхенего левого угла
+top:50%;// отступ сверху
+left:-50%//отступ слева
+transform:translate (-50%,50%);//перемещаем на середину
+//-webkit-filter:drop-shadow(5px 5px 5px #4682B4);
+//filter:drop-shadow(5px 5px 5px #4682B4);//тень для картинки png
+}
+body{
+
+background-color:rgb(219, 14, 133);//цвет фона в системе rgb и 1 прозрачность
+}
+.container {
+text-align: center;
+color: black;
+text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.centered {
+position: absolute;
+top: 45%; left: 50%;
+transform: translate(-300%, -50%);
+}
+#demo {
+text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+position: absolute;
+top: 1%;
+left: 50%;
+transform: translate(-85%, -50%);
+font-family: "Sofia", sans-serif;
+font-size: 30px;
+color: rgba(4,2,110,1);
+}
+.rotate {
+animation: rotation 18s infinite linear;
+}
+
+@keyframes rotation {
+ from {
+   transform: rotate(0deg);
+
+ }
+ to {
+   transform: rotate(359deg);
+
+ }
+
+</style>
+<style>
+#myanimation {
+
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background:red;
+
+}
+.box {
+text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    animation:
+      bounce alternate infinite
+      cubic-bezier(.2, .65, .6, 1);
+  }
+  .box.one {
+    --bounce-offset: -10px;
+    animation-duration: 250ms;
+  }
+  .box.two {
+    --bounce-offset: -6px;
+    animation-duration: 250ms;
+  }
+  .box.three {
+    --bounce-offset: -3px;
+    animation-duration: 250ms;
+  }
+   @keyframes bounce {
+    from {
+      transform: translateY(15px);
+    }
+    to {
+      transform: translateY(
+        var(--bounce-offset)
+      );
+    }
+  }
+</style>
+
+<div class="box one">
+<div style="font-size: 2em">
+ <span style="vertical-align:200px; font-size: 0.8em">
+Hi
+</div>
+ </div>
+  <div class="box two">
+  <div style="font-size: 2em">
+ <span style="vertical-align:200px; font-size: 0.8em">
+  my
+  </div>
+  </div>
+  <div class="box three">
+  <div style="font-size: 2em">
+ <span style="vertical-align:200px; font-size: 0.8em">
+  friend
+  </div>
+  </div>
+
+<script>
+
+var flag=false;
+function playAudio(url){
+if(!flag){
+var audio = new Audio(url);
+audio.loop=true;
+audio.play();
+flag=true;
+ }
+}
+</script>
+</head>
+<body>
+<div class="container">
+<div id="my_image">
+
+<img src="c:/images/m2.png"class="rotate"width=50%height=auto>
+</div>
+
+<div id ="hello_world">
+<div class="centered">
+<h1 onclick="playAudio('c:/music/song1.mp3')">Hello,World!</h1>
+</div>
+</div>
+</div>
+<p id="demo">
+</p>
+<script>
+document.getElementById("my_image").addEventListener("click", function(){ document.getElementById("demo").innerHTML = "The Universe is Infinete!"; });
+</script>
+</body>
+</html>
+<style type="text/css">
+body{margin:0; }
+#content{
+transform:translate (-50%,50%);
+text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+top:1000px;
+left:15px;
+bottom:0;right:0;
+}
+</style>
+<body>
+<div="content">
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+<div style="font-size: 2em">
+<span style="vertical-align:200px; font-size: 0.8em">
+<h3>Наша Вселенная</h3>
+<p>Вселенная - это Всё</p>
+<h4>Наша Галактика</h4>
+<p>Галактика — гигантское космические скопление звезд, газа и пыли, удерживаемые силами гравитации. Все объекты, входящие в состав галактики обращаются вокруг общего центра масс. Чаще всего это гигантское ядро, которое находится в центре, состоящее из черной дыры.</p>
+<h4>Наша Планета</h4>
+<p>Земля – это третья по удаленности от Солнца планета (третья планета Солнечной системы).
+Земля вместе с Меркурием, Венерой и Марсом образует земную группу планет Солнечной системы.
+У Земли есть один естественный спутник – Луна, а также множество искусственных, крупнейший из которых – Международная космическая станция.
+Соседями Земли являются Венера и Марс.
+Наружный слой Земли представляет собой твердую оболочку, состоящую главным образом из силикатов. Твердая кора и вязкая верхняя часть мантии составляют литосферу. Под литосферой находится астеносфера, слой относительно низкой вязкости, твердости и прочности в верхней мантии. Земля имеет ярко выраженное жидкое внешнее и твердое внутреннее ядро.
+Земля – единственная известная планета с активной тектоникой плит.
+</p>
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+</div>
+</div>
+</body>
+

@@ -1,0 +1,17 @@
+C:\Users\Максим\source\repos\Потоки\bin\Debug\Потоки.exe.config
+C:\Users\Максим\source\repos\Потоки\bin\Debug\Потоки.exe
+C:\Users\Максим\source\repos\Потоки\bin\Debug\Потоки.pdb
+C:\Users\Максим\source\repos\Потоки\obj\Debug\Потоки.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\Потоки\obj\Debug\Потоки.csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\source\repos\Потоки\obj\Debug\Потоки.Form1.resources
+C:\Users\Максим\source\repos\Потоки\obj\Debug\Потоки.Properties.Resources.resources
+C:\Users\Максим\source\repos\Потоки\obj\Debug\Потоки.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\Потоки\obj\Debug\Потоки.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Потоки\obj\Debug\Потоки.exe
+C:\Users\Максим\source\repos\Потоки\obj\Debug\Потоки.pdb
+C:\Users\Максим\source\repos\Потоки\obj\Debug\Interop.WMPLib.dll
+C:\Users\Максим\source\repos\Потоки\obj\Debug\Потоки.csproj.ResolveComReference.cache
+C:\Users\Максим\source\repos\Потоки\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Максим\source\repos\Потоки\obj\Debug\Interop.WMLSS.dll
+C:\Users\Максим\source\repos\Потоки\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Максим\source\repos\Потоки\obj\Debug\Interop.WMPLauncher.dll

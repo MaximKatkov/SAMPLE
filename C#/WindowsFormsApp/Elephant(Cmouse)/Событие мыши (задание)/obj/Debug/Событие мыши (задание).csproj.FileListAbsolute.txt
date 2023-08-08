@@ -1,0 +1,33 @@
+D:\Visual Studio\Событие мыши (задание)\Событие мыши (задание)\bin\Debug\Событие мыши (задание).exe.config
+D:\Visual Studio\Событие мыши (задание)\Событие мыши (задание)\bin\Debug\Событие мыши (задание).exe
+D:\Visual Studio\Событие мыши (задание)\Событие мыши (задание)\bin\Debug\Событие мыши (задание).pdb
+D:\Visual Studio\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие мыши (задание).csproj.AssemblyReference.cache
+D:\Visual Studio\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие мыши (задание).csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие_мыши__задание_.Form1.resources
+D:\Visual Studio\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие_мыши__задание_.Properties.Resources.resources
+D:\Visual Studio\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие мыши (задание).csproj.GenerateResource.cache
+D:\Visual Studio\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие мыши (задание).csproj.CoreCompileInputs.cache
+D:\Visual Studio\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие мыши (задание).exe
+D:\Visual Studio\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие мыши (задание).pdb
+C:\Users\Максим\Desktop\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие мыши (задание).csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие мыши (задание).csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\Desktop\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие_мыши__задание_.Form1.resources
+C:\Users\Максим\Desktop\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие_мыши__задание_.Properties.Resources.resources
+C:\Users\Максим\Desktop\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие мыши (задание).csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие мыши (задание).csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие мыши (задание).exe
+C:\Users\Максим\Desktop\Событие мыши (задание)\Событие мыши (задание)\obj\Debug\Событие мыши (задание).pdb
+C:\Users\Максим\Desktop\Событие мыши (задание)\Событие мыши (задание)\bin\Debug\Событие мыши (задание).exe.config
+C:\Users\Максим\Desktop\Событие мыши (задание)\Событие мыши (задание)\bin\Debug\Событие мыши (задание).exe
+C:\Users\Максим\Desktop\Событие мыши (задание)\Событие мыши (задание)\bin\Debug\Событие мыши (задание).pdb
+C:\Users\Максим\Desktop\Мышль\Событие мыши (задание)\bin\Debug\Событие мыши (задание).exe.config
+C:\Users\Максим\Desktop\Мышль\Событие мыши (задание)\bin\Debug\Событие мыши (задание).exe
+C:\Users\Максим\Desktop\Мышль\Событие мыши (задание)\bin\Debug\Событие мыши (задание).pdb
+C:\Users\Максим\Desktop\Мышль\Событие мыши (задание)\obj\Debug\Событие мыши (задание).csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Мышль\Событие мыши (задание)\obj\Debug\Событие мыши (задание).csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\Desktop\Мышль\Событие мыши (задание)\obj\Debug\Событие_мыши__задание_.Form1.resources
+C:\Users\Максим\Desktop\Мышль\Событие мыши (задание)\obj\Debug\Событие_мыши__задание_.Properties.Resources.resources
+C:\Users\Максим\Desktop\Мышль\Событие мыши (задание)\obj\Debug\Событие мыши (задание).csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Мышль\Событие мыши (задание)\obj\Debug\Событие мыши (задание).csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Мышль\Событие мыши (задание)\obj\Debug\Событие мыши (задание).exe
+C:\Users\Максим\Desktop\Мышль\Событие мыши (задание)\obj\Debug\Событие мыши (задание).pdb

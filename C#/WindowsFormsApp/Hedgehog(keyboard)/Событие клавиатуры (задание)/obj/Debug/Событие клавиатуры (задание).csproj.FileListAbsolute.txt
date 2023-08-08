@@ -1,0 +1,45 @@
+D:\Visual Studio\Событие клавиатуры (задание)\Событие клавиатуры (задание)\bin\Debug\Событие клавиатуры (задание).exe.config
+D:\Visual Studio\Событие клавиатуры (задание)\Событие клавиатуры (задание)\bin\Debug\Событие клавиатуры (задание).exe
+D:\Visual Studio\Событие клавиатуры (задание)\Событие клавиатуры (задание)\bin\Debug\Событие клавиатуры (задание).pdb
+D:\Visual Studio\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.AssemblyReference.cache
+D:\Visual Studio\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие_клавиатуры__задание_.Form1.resources
+D:\Visual Studio\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие_клавиатуры__задание_.Properties.Resources.resources
+D:\Visual Studio\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.GenerateResource.cache
+D:\Visual Studio\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.CoreCompileInputs.cache
+D:\Visual Studio\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).exe
+D:\Visual Studio\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).pdb
+C:\Users\Максим\Desktop\Событие клавиатуры (задание)\Событие клавиатуры (задание)\bin\Debug\Событие клавиатуры (задание).exe.config
+C:\Users\Максим\Desktop\Событие клавиатуры (задание)\Событие клавиатуры (задание)\bin\Debug\Событие клавиатуры (задание).exe
+C:\Users\Максим\Desktop\Событие клавиатуры (задание)\Событие клавиатуры (задание)\bin\Debug\Событие клавиатуры (задание).pdb
+C:\Users\Максим\Desktop\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\Desktop\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие_клавиатуры__задание_.Form1.resources
+C:\Users\Максим\Desktop\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие_клавиатуры__задание_.Properties.Resources.resources
+C:\Users\Максим\Desktop\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).exe
+C:\Users\Максим\Desktop\Событие клавиатуры (задание)\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).pdb
+C:\Users\Максим\Desktop\Клавиатура\Событие клавиатуры (задание)\bin\Debug\Событие клавиатуры (задание).exe.config
+C:\Users\Максим\Desktop\Клавиатура\Событие клавиатуры (задание)\bin\Debug\Событие клавиатуры (задание).exe
+C:\Users\Максим\Desktop\Клавиатура\Событие клавиатуры (задание)\bin\Debug\Событие клавиатуры (задание).pdb
+C:\Users\Максим\Desktop\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\Desktop\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие_клавиатуры__задание_.Form1.resources
+C:\Users\Максим\Desktop\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие_клавиатуры__задание_.Properties.Resources.resources
+C:\Users\Максим\Desktop\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).exe
+C:\Users\Максим\Desktop\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).pdb
+C:\Users\Максим\source\repos\Клавиатура\Событие клавиатуры (задание)\bin\Debug\Событие клавиатуры (задание).exe.config
+C:\Users\Максим\source\repos\Клавиатура\Событие клавиатуры (задание)\bin\Debug\Событие клавиатуры (задание).exe
+C:\Users\Максим\source\repos\Клавиатура\Событие клавиатуры (задание)\bin\Debug\Событие клавиатуры (задание).pdb
+C:\Users\Максим\source\repos\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\source\repos\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие_клавиатуры__задание_.Form1.resources
+C:\Users\Максим\source\repos\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие_клавиатуры__задание_.Properties.Resources.resources
+C:\Users\Максим\source\repos\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).exe
+C:\Users\Максим\source\repos\Клавиатура\Событие клавиатуры (задание)\obj\Debug\Событие клавиатуры (задание).pdb
+C:\Users\Максим\source\repos\Клавиатура\Событие клавиатуры (задание)\obj\Debug\s.Form1.resources
